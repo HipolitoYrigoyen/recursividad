@@ -26,3 +26,8 @@ La recursividad se basa en dos principios clave:
 ("La funcion se llama a si mismo")
 
 ![image](https://github.com/user-attachments/assets/136c12e5-911c-4ca7-85bc-979d469ef4d0)
+
+
+## 🧩 PASO A PASO
+
+![image](https://github.com/user-attachments/assets/8bb0e476-290a-43e6-ac06-36f7b138cdce)
