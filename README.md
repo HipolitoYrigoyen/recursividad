@@ -36,4 +36,9 @@ La recursividad se basa en dos principios clave:
 
   ![image](https://github.com/user-attachments/assets/934c9c33-0bf2-4a2c-882b-dd9e1c21a1fc)
 
+![image](https://github.com/user-attachments/assets/055a2919-f3ab-4636-8c28-11bf521a4287)
+
+![Uploading image.png…]()
+
+
 
